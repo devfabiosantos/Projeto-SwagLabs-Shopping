@@ -28,3 +28,11 @@ Projeto-SwagLabs-Shopping/
 │   └── Casos_Teste_BDD.pdf
 │
 └── README.md
+```
+
+## 📄 Documentação
+- [Plano de Fluxo e Ciclo de Vida do Bug](docs/Plano_Fluxo_Desenvolvimento_Ciclo_Bug.pdf)
+- [User Stories](docs/User_Stories.pdf)
+- [Mindmap User Story](docs/Mindmap_User_Story.pdf)
+- [Casos de Teste Step-by-Step](docs/Casos_Teste_StepByStep.pdf)
+- [Casos de Teste BDD](docs/Casos_Teste_BDD.pdf)
